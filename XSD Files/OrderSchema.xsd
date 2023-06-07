@@ -1,0 +1,24 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define the orders element -->
+  <xs:element name="orders">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="order" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="order_id" type="xs:int"/>
+              <xs:element name="account_id" type="xs:int"/>
+              <xs:element name="stock_symbol" type="xs:string"/>
+              <xs:element name="order_type" type="xs:string"/>
+              <xs:element name="quantity" type="xs:int"/>
+              <xs:element name="price" type="xs:decimal"/>
+              <xs:element name="order_date" type="xs:dateTime"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

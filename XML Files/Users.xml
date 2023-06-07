@@ -1,0 +1,47 @@
+<users>
+    <user>
+        <user_id>INSERT USER ID HERE</user_id>
+        <username>INSERT USERNAME HERE</username>
+        <email>INSERT EMAIL HERE</email>
+        <password>INSERT PASSWORD HERE</password>
+        <first_name>INSERT FIRST NAME HERE</first_name>
+        <last_name>INSERT LAST NAME HERE</last_name>
+        <date_of_birth>INSERT DATE OF BIRTH HERE</date_of_birth>
+        <registration_date>INSERT REGISTRATION DATE HERE</registration_date>
+        <last_login>INSERT LAST LOGIN HERE</last_login>
+    <user>
+    <user>
+        <user_id>INSERT USER ID HERE</user_id>
+        <username>INSERT USERNAME HERE</username>
+        <email>INSERT EMAIL HERE</email>
+        <password>INSERT PASSWORD HERE</password>
+        <first_name>INSERT FIRST NAME HERE</first_name>
+        <last_name>INSERT LAST NAME HERE</last_name>
+        <date_of_birth>INSERT DATE OF BIRTH HERE</date_of_birth>
+        <registration_date>INSERT REGISTRATION DATE HERE</registration_date>
+        <last_login>INSERT LAST LOGIN HERE</last_login>
+    <user>
+    <user>
+        <user_id>INSERT USER ID HERE</user_id>
+        <username>INSERT USERNAME HERE</username>
+        <email>INSERT EMAIL HERE</email>
+        <password>INSERT PASSWORD HERE</password>
+        <first_name>INSERT FIRST NAME HERE</first_name>
+        <last_name>INSERT LAST NAME HERE</last_name>
+        <date_of_birth>INSERT DATE OF BIRTH HERE</date_of_birth>
+        <registration_date>INSERT REGISTRATION DATE HERE</registration_date>
+        <last_login>INSERT LAST LOGIN HERE</last_login>
+    <user>
+    <user>
+        <user_id>INSERT USER ID HERE</user_id>
+        <username>INSERT USERNAME HERE</username>
+        <email>INSERT EMAIL HERE</email>
+        <password>INSERT PASSWORD HERE</password>
+        <first_name>INSERT FIRST NAME HERE</first_name>
+        <last_name>INSERT LAST NAME HERE</last_name>
+        <date_of_birth>INSERT DATE OF BIRTH HERE</date_of_birth>
+        <registration_date>INSERT REGISTRATION DATE HERE</registration_date>
+        <last_login>INSERT LAST LOGIN HERE</last_login>
+    <user>
+    <!-- Add more user elements for additional users-->
+</users>

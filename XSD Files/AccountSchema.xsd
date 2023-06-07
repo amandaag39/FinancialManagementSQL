@@ -1,0 +1,25 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define the account element -->
+  <xs:element name="account">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="account_id" type="xs:int"/>
+        <xs:element name="user_id" type="xs:int"/>
+        <xs:element name="account_type" type="xs:string"/>
+        <xs:element name="balance" type="xs:decimal"/>
+        <xs:element name="date_created" type="xs:dateTime"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Define the accounts element as a collection of account elements -->
+  <xs:element name="accounts">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="account" type="account" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

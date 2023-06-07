@@ -1,0 +1,52 @@
+<stocks>
+    <stock>
+        <stock_symbol>INSERT STOCK SYMBOL HERE</stock_symbol>
+        <company_name>INSERT COMPANY NAME HERE</company_name>
+        <stock_description>INSERT DESCRIPTION HERE</stock_description>
+        <exchange>INSERT EXCHANGE HERE</exchange>
+        <sector>INSERT SECTOR HERE</sector>
+        <market_cap>INSERT MARKET CAP HERE</market_cap>
+        <dividend_yield>INSERT DIVIDEND YIELD HERE</dividend_yield>
+        <p_e_ratio>INSERT PE RATIO HERE</p_e_ratio>
+        <earnings_per_share>INSERT EARNINGS PER SHARE HERE</earnings_per_share>
+        <beta>INSERT BETA HERE</beta>
+        <high_price>INSERT HIGH PRICE HERE</high_price>
+        <low_price>INSERT LOW PRICE HERE</low_price>
+        <last_trade_price>INSERT LAST TRADE PRICE HERE</last_trade_price>
+        <volume>INSERT VOLUME HERE</volume>
+    </stock>
+    <stock>
+        <stock_symbol>INSERT STOCK SYMBOL HERE</stock_symbol>
+        <company_name>INSERT COMPANY NAME HERE</company_name>
+        <stock_description>INSERT DESCRIPTION HERE</stock_description>
+        <exchange>INSERT EXCHANGE HERE</exchange>
+        <sector>INSERT SECTOR HERE</sector>
+        <market_cap>INSERT MARKET CAP HERE</market_cap>
+        <dividend_yield>INSERT DIVIDEND YIELD HERE</dividend_yield>
+        <p_e_ratio>INSERT PE RATIO HERE</p_e_ratio>
+        <earnings_per_share>INSERT EARNINGS PER SHARE HERE</earnings_per_share>
+        <beta>INSERT BETA HERE</beta>
+        <high_price>INSERT HIGH PRICE HERE</high_price>
+        <low_price>INSERT LOW PRICE HERE</low_price>
+        <last_trade_price>INSERT LAST TRADE PRICE HERE</last_trade_price>
+        <volume>INSERT VOLUME HERE</volume>
+    </stock>
+    <stock>
+        <stock_symbol>INSERT STOCK SYMBOL HERE</stock_symbol>
+        <company_name>INSERT COMPANY NAME HERE</company_name>
+        <stock_description>INSERT DESCRIPTION HERE</stock_description>
+        <exchange>INSERT EXCHANGE HERE</exchange>
+        <sector>INSERT SECTOR HERE</sector>
+        <market_cap>INSERT MARKET CAP HERE</market_cap>
+        <dividend_yield>INSERT DIVIDEND YIELD HERE</dividend_yield>
+        <p_e_ratio>INSERT PE RATIO HERE</p_e_ratio>
+        <earnings_per_share>INSERT EARNINGS PER SHARE HERE</earnings_per_share>
+        <beta>INSERT BETA HERE</beta>
+        <high_price>INSERT HIGH PRICE HERE</high_price>
+        <low_price>INSERT LOW PRICE HERE</low_price>
+        <last_trade_price>INSERT LAST TRADE PRICE HERE</last_trade_price>
+        <volume>INSERT VOLUME HERE</volume>
+    </stock>
+    <!-- Add more stock elements for additional stocks--> 
+
+</stocks>

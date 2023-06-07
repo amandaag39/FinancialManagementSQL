@@ -1,0 +1,23 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define the holdings element -->
+  <xs:element name="holdings">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="holding" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="holding_id" type="xs:int"/>
+              <xs:element name="portfolio_id" type="xs:int"/>
+              <xs:element name="stock_symbol" type="xs:string"/>
+              <xs:element name="quantity" type="xs:int"/>
+              <xs:element name="purchase_price" type="xs:decimal"/>
+              <xs:element name="purchase_date" type="xs:date"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

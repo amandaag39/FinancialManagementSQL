@@ -1,0 +1,24 @@
+<accounts>
+    <account>
+        <account_id>INSERT ACCOUNT ID HERE</account_id>
+        <user_id>1</user_id>
+        <account_type>INSERT ACCOUNT TYPE HERE</account_type>
+        <balance>INSERT BALANCE HERE</balance>
+        <date_created>INSERT DATE CREATED HERE</date_created>
+    </account>
+    <account>
+        <account_id>INSERT ACCOUNT ID HERE</account_id>
+        <user_id>1</user_id>
+        <account_type>INSERT ACCOUNT TYPE HERE</account_type>
+        <balance>INSERT BALANCE HERE</balance>
+        <date_created>INSERT DATE CREATED HERE</date_created>
+    </account>
+    <account>
+        <account_id>INSERT ACCOUNT ID HERE</account_id>
+        <user_id>1</user_id>
+        <account_type>INSERT ACCOUNT TYPE HERE</account_type>
+        <balance>INSERT BALANCE HERE</balance>
+        <date_created>INSERT DATE CREATED HERE</date_created>
+    </account>
+    <!-- Add more account elements for additional accounts--> 
+</accounts>

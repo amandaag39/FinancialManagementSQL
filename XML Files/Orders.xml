@@ -1,0 +1,30 @@
+<orders>
+    <order>
+        <order_id>INSERT ORDER ID HERE</order_id>
+        <account_id>INSERT ACCOUND ID HERE</account_id>
+        <stock_symbol>INSERT STOCK SYMBOL HERE</stock_symbol>
+        <order_type>INSERT ORDER TYPE HERE</order_type>
+        <quantity>INSERT QUANTITY HERE</quantity>
+        <price>INSERT PRICE HERER</price>
+        <order_date>INSERT ORDER DATE HERE</order_date>
+    </order>
+    <order>
+        <order_id>INSERT ORDER ID HERE</order_id>
+        <account_id>INSERT ACCOUND ID HERE</account_id>
+        <stock_symbol>INSERT STOCK SYMBOL HERE</stock_symbol>
+        <order_type>INSERT ORDER TYPE HERE</order_type>
+        <quantity>INSERT QUANTITY HERE</quantity>
+        <price>INSERT PRICE HERER</price>
+        <order_date>INSERT ORDER DATE HERE</order_date>
+    </order>
+    <order>
+        <order_id>INSERT ORDER ID HERE</order_id>
+        <account_id>INSERT ACCOUND ID HERE</account_id>
+        <stock_symbol>INSERT STOCK SYMBOL HERE</stock_symbol>
+        <order_type>INSERT ORDER TYPE HERE</order_type>
+        <quantity>INSERT QUANTITY HERE</quantity>
+        <price>INSERT PRICE HERER</price>
+        <order_date>INSERT ORDER DATE HERE</order_date>
+    </order>
+<!-- Add more order elements for additional orders -->
+</orders>

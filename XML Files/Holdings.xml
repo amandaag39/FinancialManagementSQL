@@ -1,0 +1,27 @@
+<holdings>
+    <holdings>
+        <holding_id>INSERT HOLDING ID HERE</holding_id>
+        <portfolio_id>INSERT PORTFOLIO ID HERE</portfolio_id>
+        <stock_symbol>INSERT STOCK SYMBOL</stock_symbol>
+        <quantity>INSERT QUANTITY HERE</quantity>
+        <purchase_price>INSERT PURCHASE PRICE HERE</purchase_price>
+        <purchase_date>INSERT PURCHASE DATE HERE</purchase_date>
+    </holding>
+    <holdings>
+        <holding_id>INSERT HOLDING ID HERE</holding_id>
+        <portfolio_id>INSERT PORTFOLIO ID HERE</portfolio_id>
+        <stock_symbol>INSERT STOCK SYMBOL</stock_symbol>
+        <quantity>INSERT QUANTITY HERE</quantity>
+        <purchase_price>INSERT PURCHASE PRICE HERE</purchase_price>
+        <purchase_date>INSERT PURCHASE DATE HERE</purchase_date>
+    </holding>
+    <holdings>
+        <holding_id>INSERT HOLDING ID HERE</holding_id>
+        <portfolio_id>INSERT PORTFOLIO ID HERE</portfolio_id>
+        <stock_symbol>INSERT STOCK SYMBOL</stock_symbol>
+        <quantity>INSERT QUANTITY HERE</quantity>
+        <purchase_price>INSERT PURCHASE PRICE HERE</purchase_price>
+        <purchase_date>INSERT PURCHASE DATE HERE</purchase_date>
+    </holding>
+        <!-- Add more holdings elements for additional holdings--> 
+</holdings>

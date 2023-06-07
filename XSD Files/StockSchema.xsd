@@ -1,0 +1,25 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define the stock element -->
+  <xs:element name="stock">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="stock_symbol" type="xs:string"/>
+        <xs:element name="company_name" type="xs:string"/>
+        <xs:element name="stock_description" type="xs:string"/>
+        <xs:element name="exchange" type="xs:string"/>
+        <xs:element name="sector" type="xs:string"/>
+        <xs:element name="market_cap" type="xs:decimal"/>
+        <xs:element name="dividend_yield" type="xs:decimal"/>
+        <xs:element name="p_e_ratio" type="xs:decimal"/>
+        <xs:element name="earnings_per_share" type="xs:decimal"/>
+        <xs:element name="beta" type="xs:decimal"/>
+        <xs:element name="high_price" type="xs:decimal"/>
+        <xs:element name="low_price" type="xs:decimal"/>
+        <xs:element name="last_trade_price" type="xs:decimal"/>
+        <xs:element name="volume" type="xs:int"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
